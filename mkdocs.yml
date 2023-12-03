@@ -24,3 +24,9 @@ nav:
 
         - CAN MCU: 
             - CAN: mcu/can-mcu.md
+    - Host:
+        - Host: host/host.md
+        - CAN Network:
+            - CAN Network: host/can-network.md
+            - Config CAN Network: host/can-network/config-linux-can-network.md
+            
