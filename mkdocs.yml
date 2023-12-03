@@ -1,0 +1,26 @@
+site_name: NekoDocs
+site_url: http://0.0.0.0
+
+theme:
+    name: material
+    
+    features:
+        - navigation.tabs
+        - navigation.top
+        - search.suggest
+        # - navigation.footer
+nav:
+    - Home: index.md
+
+    - MCU: 
+        - MCU: mcu/mcu.md
+
+        - Main MCU: 
+            - Main: mcu/main-mcu.md
+            - Octopus Pro: 
+                - Octopus Pro: mcu/main-mcu/octopus-pro/octopus-pro.md
+                - Octopus Pro H723 (CAN Bridge): mcu/main-mcu/octopus-pro/octopus-pro-h723-can-main.md
+            - RP2040: mcu/main-mcu/rp2040/rp2040.md
+
+        - CAN MCU: 
+            - CAN: mcu/can-mcu.md
