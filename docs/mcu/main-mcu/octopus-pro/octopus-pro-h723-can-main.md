@@ -32,9 +32,9 @@ Use the commend below to flash firmware into mcu.
 make flash FLASH_DEVICE=0483:df11
 ```
 
-### [Config Linux CAN Network](../../../host/can-network/config-linux-can-network.md) before move on.
-
 ### Find CANBUS UUID
+
+#### [Config Linux CAN Network](../../../host/can-network/config-linux-can-network.md) before move on.
 
 Use the commend below to find `canbus_uuid`
 

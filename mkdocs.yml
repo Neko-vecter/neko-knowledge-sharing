@@ -14,7 +14,6 @@ nav:
 
     - MCU: 
         - MCU: mcu/mcu.md
-
         - Main MCU: 
             - Main: mcu/main-mcu.md
             - Octopus Pro: 
@@ -24,6 +23,7 @@ nav:
 
         - CAN MCU: 
             - CAN: mcu/can-mcu.md
+
     - Host:
         - Host: host/host.md
         - CAN Network:
