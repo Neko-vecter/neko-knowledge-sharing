@@ -19,6 +19,7 @@ nav:
             - Octopus Pro: 
                 - Octopus Pro: mcu/main-mcu/octopus-pro/octopus-pro.md
                 - Octopus Pro H723 (CAN Bridge): mcu/main-mcu/octopus-pro/octopus-pro-h723-can-main.md
+                - Octopus Pro F446 (CAN Bridge): mcu/main-mcu/octopus-pro/octopus-pro-f446-can-main.md
             - RP2040: mcu/main-mcu/rp2040/rp2040.md
 
         - CAN MCU: 
